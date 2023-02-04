@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1+tsiR9FPL3m5ufLibU/9eyY49Z5oen+khlZ6uEkono8m0nk6HO+qrPe8apAXyWot3w8rKnsnT9KfadWqL+b4A==",
+  "dgSpecHash": "s4I7FqShG8PYqTrGD90lbO0sf4cgoI2FGm28F2uO8kOcPJXJQDC3d0DtYcNH6lEnsNqwNwMBA246qnOJglO/jA==",
   "success": true,
-  "projectFilePath": "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\COMP367\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

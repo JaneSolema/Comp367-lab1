@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\COMP367\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\COMP367\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\COMP367\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\COMP367\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\janes\\.nuget\\packages\\",
-        "outputPath": "C:\\COMP367\\comp367-lab1\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\COMP367\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janes\\AppData\\Roaming\\NuGet\\NuGet.Config",
